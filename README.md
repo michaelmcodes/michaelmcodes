@@ -1,6 +1,5 @@
 ### Hi I'm Michael Mark 👋
 
-- 💻 I have a passion for creating innovative software
-- 👨🏿‍🎓 I'm currently pursuing my Master's Degree in Computer Science
-- 👨🏾‍💻 I have 2 years of experience creating iOS applications and 1 year creating android applications
-- ⚽️ I enjoy spending my time away from the computer playing sports and hanging out with friends
+While running a sneaker and clothing resale company, I became curious about the auto-checkout software I was using to purchase limited-edition items. This curiosity sparked my interest in software development, and I've been captivated by it ever since. I embarked on a journey to learn Python, aiming to build my own auto-checkout software as my first significant project. Although the initial attempt was far from perfect and the code was quite rough, I'll never forget the thrill of seeing it work for the first time.
+
+That experience solidified my decision to pursue a career in software development. I enrolled in a Master's program in Computer Science and have since explored various fields, from iOS and Android development to data structures and distributed systems. I possess strong skills in Java and Python, and I particularly enjoy developing mobile applications. I am open to any role in software development and am keen to continue learning and growing every day.
